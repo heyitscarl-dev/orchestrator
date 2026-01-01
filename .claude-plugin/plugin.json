@@ -1,0 +1,8 @@
+{
+  "name": "orchestrator",
+  "description": "Allow claude-code to outsource work to codex and gemini.",
+  "version": "0.0.1",
+  "author": {
+    "name": "heyitscarl"
+  }
+}
